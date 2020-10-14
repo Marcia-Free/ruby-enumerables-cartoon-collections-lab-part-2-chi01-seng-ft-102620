@@ -36,7 +36,6 @@ def find_valid_calls(planeteer_calls)
   
   planeteer_calls.find do |element|
     element = ("Earth!" or "Wind!" or "Fire!" or "Water!" or "Heart!")
-    element
   end
-  
+  element
 end
